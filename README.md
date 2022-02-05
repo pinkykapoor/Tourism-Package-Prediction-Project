@@ -1,1 +1,1 @@
-# Tourism-Package-Prediction-Project
+# Tourism-Package-Purchase-Prediction-Project
